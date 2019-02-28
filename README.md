@@ -1,2 +1,0 @@
-# safelinkku
-file.js
